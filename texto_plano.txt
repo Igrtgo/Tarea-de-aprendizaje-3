@@ -1,2 +1,3 @@
 Primera edición del archivo de texto plano.
 
+Texto editado. He recortado el sonido y puesto un efecto de inicio suave con audacity.
